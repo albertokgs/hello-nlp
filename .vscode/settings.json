@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/opt/homebrew/Caskroom/miniforge/base/envs/lab/bin/python",
+  "jupyter.pythonInterpreter": "/opt/homebrew/Caskroom/miniforge/base/envs/lab/bin/python",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "python.terminal.activateEnvironment": true
+}
