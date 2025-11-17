@@ -1,0 +1,11 @@
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# macOS
+.DS_Store
+# Envs (if you ever make per-project)
+.venv/
+# Data (keep raw/big files out of git)
+data/
