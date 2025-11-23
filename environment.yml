@@ -16,3 +16,6 @@ dependencies:
   - tokenizers
   - sentencepiece
   - pyarrow
+  - psycopg2
+  - requests
+  - beautifulsoup4
